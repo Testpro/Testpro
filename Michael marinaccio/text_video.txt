@@ -1,0 +1,7 @@
+&Message=<br /><center><object width="320" height="340"  title="Video" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+                      <param value="Video-Gallery.swf" name="movie"/>
+                      <param value="high" name="quality"/>
+                       <param value="transparent" name="wmode"/>
+                      <embed width="320" height="340" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" quality="high" wmode="transparent" src="Video-Gallery.swf"/>
+                    </object>
+                 </center>

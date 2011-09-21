@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gallery>
+  <album>
+    <albumDescription><![CDATA[Album 1]]></albumDescription>
+    <image>
+      <path>image_1.jpg</path>
+      <caption><![CDATA[Image 1]]></caption>
+      <link name="Click here to enlarge" path="http://www.7pclients.com/mm/G_images/image_1_big.jpg" target="_blank"/>
+      <imageName>image_1.jpg</imageName>
+    </image>
+    <image>
+      <path>image_2.jpg</path>
+      <caption><![CDATA[Image 2]]></caption>
+       <link name="Click here to enlarge" path="http://www.7pclients.com/mm/G_images/image_2_big.jpg" target="_blank"/>
+      <imageName>image_2.jpg</imageName>
+    </image>
+    <image>
+      <path>image_3.jpg</path>
+      <caption><![CDATA[Image 3]]></caption>
+       <link name="Click here to enlarge" path="http://www.7pclients.com/mm/G_images/image_3_big.jpg" target="_blank"/>
+      <imageName>image_3.jpg</imageName>
+    </image>
+    <image>
+      <path>image_4.jpg</path>
+      <caption><![CDATA[Image 4]]></caption>
+       <link name="Click here to enlarge" path="http://www.7pclients.com/mm/G_images/image_4_big.jpg" target="_blank"/>
+      <imageName>image_4.jpg</imageName>
+    </image>
+
+  <image>
+      <path>image_5.jpg</path>
+      <caption><![CDATA[Image 5]]></caption>
+       <link name="Click here to enlarge" path="http://www.7pclients.com/mm/G_images/image_5_big.jpg" target="_blank"/>
+      <imageName>image_5.jpg</imageName>
+    </image>
+	
+     <image>
+      <path>image_6.jpg</path>
+      <caption><![CDATA[Image 5]]></caption>
+       <link name="Click here to enlarge" path="http://www.7pclients.com/mm/G_images/image_6_big.jpg" target="_blank"/>
+      <imageName>image_6.jpg</imageName>
+    </image>
+	
+	  <image>
+      <path>image_7.jpg</path>
+      <caption><![CDATA[Image 5]]></caption>
+       <link name="Click here to enlarge" path="http://www.7pclients.com/mm/G_images/image_7_big.jpg" target="_blank"/>
+      <imageName>image_7.jpg</imageName>
+    </image>
+	
+  </album>
+  
+</gallery>

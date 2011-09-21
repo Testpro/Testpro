@@ -1,0 +1,11 @@
+&Message=<a href="{url}" target="_blank">{url}</a>
+<BR><font>SAG*AFTRA*AEA</font><BR><BR>
+
+Height: 		{height}<BR>Weight: 		{weight}<BR>Hair: 			{hair}<BR>Eyes: 		{eyes}	<BR><BR> 
+
+<B>ADDRESS</B>
+{address1}
+<BR> <BR>
+
+
+{section}

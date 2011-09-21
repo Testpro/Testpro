@@ -1,0 +1,61 @@
+&Message=         <h5 class="blacktext">&nbsp;</h5>
+          <h5 class="blacktext">http://www.speedreels.com/talent/lgoodman/</h5>
+          <h5 class="blacktext"><br />
+  SAG*AFTRA*AEA</h5>
+          <h5 class="blacktext"><br />
+            Height: 		5'2&quot;</h5>
+          <h5 class="blacktext">Weight: 		104</h5>
+          <h5 class="blacktext">Hair: 			Brunette</h5>
+          <h5 class="blacktext">Eyes: 		Brown </h5>
+          <h5 class="blacktext">&nbsp;</h5>
+          <h5 class="blacktext">ADDRESS</h5>
+          <h5 class="blacktext">Chateau Billings</h5>
+          <h5 class="blacktext">A Talent Agency</h5>
+          <h5 class="blacktext">(323) 965-5432 Phone</h5>
+          <h5 class="blacktext">(323) 931-7404 Fax<br />
+              <br />
+              <strong>FILM</strong></h5>
+          <h5 class="blacktext">2 A.M				Lead			Barbara Tarbuck
+            COUNTING DAYS		Featured		Brian Reddy, City Films<br />
+            SOMETHING ELSE		Featured		Tracy Aziz<br />
+            LIFE ON EARTH		Featured		Jeff Keith </h5>
+          <h5 class="blacktext">&nbsp;</h5>
+          <h5 class="blacktext"><strong>TELEVISION</strong></h5>
+          <h5 class="blacktext">TWILIGHT ZONE		Lead			E! Entertainment<br />
+            NURSE (PILOT)			Guest Star		CBS<br />
+            LEGWORK			Guest Star		CBS<br />
+            PURELY PLATONIC		Guest Star		Michelle Palermo<br />
+            <br />
+            <strong>THEATER (Partial List)</strong></h5>
+          <h5 class="blacktext">888-SELFISH</h5>
+          <h5 class="blacktext">Ayn Rand</h5>
+          <h5 class="blacktext">Julian Barry,Writer/Director</h5>
+          <h5 class="blacktext">JOHN'S HAND (by Catherine Butterfield)</h5>
+          <h5 class="blacktext">TerryTheatre 40, Michael Haney</h5>
+          <h5 class="blacktext">MERCYLeadHBO/Vivian Matalon</h5>
+          <h5 class="blacktext">HELSIGNORGertrudeEnsemble Studio Theatre, Mahon</h5>
+          <h5 class="blacktext">KING JOHNConstanceClassical Theatre Lab, Neal Larson</h5>
+          <h5 class="blacktext">CANDY AND SHELLEY...ShelleyAmerican Place Theatre, Carey Perloff</h5>
+          <h5 class="blacktext">ESCAPE FROM RIVERDALECandyJewish Reparatory Theatre</h5>
+          <h5 class="blacktext">TALKING WITHTwirlerManhattan Theatre Club, Jon Jory</h5>
+          <h5 class="blacktext">OTHELLO (w/F. Murray Abraham)EmiliaRiverside Shakespeare Company</h5>
+          <h5 class="blacktext">THE SHOW-OFFAmyPlaywright’s Horizons, Bill Ludell</h5>
+          <h5 class="blacktext">THE HEIDI CHRONICLESFran/AprilSacramento Stage, Dennis Bigelow</h5>
+          <h5 class="blacktext">ISN’T IT ROMANTICJanieArena Stage, Amy Saltz</h5>
+          <h5 class="blacktext">TARTUFFEDorineBuffalo Studio Theatre, David Frank</h5>
+          <h5 class="blacktext">FIND MEVerityActors Theatre of Louisville, Jon Jory</h5>
+          <h5 class="blacktext">THE RIVALSLucyCenter Stage, Stan Wodjewodski</h5>
+          <h5 class="blacktext">OPEN UPON A TIMEViktoriaSeattle Reparatory, Gwen Arner</h5>
+          <h5 class="blacktext">THE ROSE TATTOO (w/ Cicely Tyson)RosaBerkshire Theatre Festival, C. Anderson</h5>
+          <h5 class="blacktext">&nbsp;</h5>
+          <h5 class="blacktext"><strong>TRAINING</strong></h5>
+          <h5 class="blacktext">Education:University of Michigan, B.A.</h5>
+          <h5 class="blacktext">Acting:Uta Hagen, Lloyd Richards,Tim Phillips, Bill Esper, Corey Allen, Alfred Molina</h5>
+          <h5 class="blacktext">Voice:Natsuko Ohama, Margery Phillips</h5>
+          <h5 class="blacktext">Improv:The Groundlings, Paul Sills</h5>
+          <h5 class="blacktext">&nbsp;</h5>
+          <h5 class="blacktext"><strong>SPECIAL SKILLS</strong></h5>
+          <h5 class="blacktext">Accents and Dialects:Yiddish, French, Russian, Italian, Southern, New York, German,British, Cockney, etc.</h5>
+          <h5 class="blacktext">Member:Ensemble Studio Theatre, L.A.</h5>
+          <h5>&nbsp;</h5>
+          <h5></h5>

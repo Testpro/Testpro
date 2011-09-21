@@ -1,0 +1,20 @@
+<settings>
+	<!-- path to the flv file -->
+	<set name="flv" value="videos/orig/mm-reel.flv" />
+	<!-- set if flv starts playing after it has loaded -->
+	<set name="autoplay" value="true" />
+	<!-- set if flv starts playing again after playback has completed -->
+	<set name="autorewind" value="false" />
+	<!-- set initial volume -->
+	<set name="volume" value="50" />
+	<!-- set buffer time -->
+	<set name="buffer" value="0.1" />
+	<!-- if set to true and the movie is smaller than the window, it will stretch to fit -->
+	<set name="stretch" value="true" />	
+	<!-- set scanlines opacity; 0 for no scanlines -->
+	<set name="scanlines" value="0" />
+	<!-- enable/disbale tooltips -->
+	<set name="tooltips" value="true" />
+	<!-- set tooltip strings -->
+	<set name="tips" value="Play/Pause|Time|Play from the begining|Toggle Mute|Volume" />
+</settings>

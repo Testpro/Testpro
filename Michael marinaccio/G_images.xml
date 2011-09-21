@@ -1,0 +1,53 @@
+<gallery>
+  <album>
+    <albumDescription><![CDATA[Album 1]]></albumDescription>
+   
+
+	 <image>
+      <path>image_5.jpg</path>
+      <caption>image 1 </caption>
+      <link name="Click here to enlarge" path="G_images/image_5_big.jpg" target="_blank"/>
+      <imageName>image_5.jpg</imageName>
+    </image>
+	 <image>
+      <path>image_2.jpg</path>
+      <caption>image2 </caption>
+      <link name="Click here to enlarge" path="G_images/image_2_big.jpg" target="_blank"/>
+      <imageName>image_2.jpg</imageName>
+    </image>
+	 <image>
+      <path>image_3.jpg</path>
+      <caption>image3 </caption>
+      <link name="Click here to enlarge" path="G_images/image_3_big.jpg" target="_blank"/>
+      <imageName>image_3.jpg</imageName>
+    </image>
+	 <image>
+      <path>image_4.jpg</path>
+      <caption>image4 </caption>
+      <link name="Click here to enlarge" path="G_images/image_4_big.jpg" target="_blank"/>
+      <imageName>image_4.jpg</imageName>
+    </image>
+	 <image>
+      <path>image_6.jpg</path>
+      <caption>image 5 </caption>
+      <link name="Click here to enlarge" path="G_images/image_6_big.jpg" target="_blank"/>
+      <imageName>image_6.jpg</imageName>
+    </image>
+	 <image>
+      <path>image_7.jpg</path>
+      <caption>image 6 </caption>
+      <link name="Click here to enlarge" path="G_images/image_7_big.jpg" target="_blank"/>
+      <imageName>image_7.jpg</imageName>
+    </image>
+	 <image>
+      <path>disp_Copy of image_5_big.jpg</path>
+      <caption>image 7 </caption>
+      <link name="Click here to enlarge" path="G_images/print_Copy of image_5_big.jpg" target="_blank"/>
+      <imageName>disp_Copy of image_5_big.jpg</imageName>
+    </image>
+	 <image>
+      <path>disp_138149359216_PNG.png</path>
+      <caption>2 </caption>
+      <link name="Click here to enlarge" path="G_images/print_3080576616_PNG.png" target="_blank"/>
+      <imageName>disp_138149359216_PNG.png</imageName>
+    </image> </album></gallery>

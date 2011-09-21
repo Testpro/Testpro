@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gallery>
+  <setup
+  backgroundAlpha="0%"
+  backgroundColor="000000"
+  backgroundFrameColor="000000"
+  backgroundFrameEnabled="false"
+  captionBackgroundAlpha="65"
+  captionBackgroundColor="000000"
+  captionDeviceFontColor="eb7c08"
+  captionDeviceFontSize="18"
+  captionOnStart="false"
+  captionPosition="bottom"
+  deviceFontType="Arial"
+  mainImageDropShadowEnabled="true"
+  mainImageFrameColor="ffffff"
+  mainImageFrameSize="10"
+  mainImageSizePreview="false"
+  mainImageTransitionEasingType="easeOutQuart"
+  mainImageTransitionRandomType="disabled"
+  mainImageTransitionTime="0.7"
+  mainImageTransitionType="alpha"
+  menuAlwaysShow="false"
+  menuBackgroundAlpha="90"
+  menuDeviceFontColor="CCCCCC"
+  menuDeviceFontSize="10"
+  menuRollOverEffectColor="eb7c08"
+  menuSoundType="1"
+  menuSoundVolume="20"
+  menuSpacing="0"
+  menuTextYoffset="0"
+  musicAutoPlay="false"
+  musicLoop="true"
+  musicVolume="100"
+  navBarButtonsFrameColor="eb7c08"
+  navBarButtonsSizeOffset="0"
+  navBarButtonsSpacing="10"
+  navBarButtonsSymbolColor="e7b603"
+  navBarButtonsSymbolRolloverColor="eb7c08"
+  navBarEnabled="true"
+  navBarEnableCaption="true"
+  navBarEnableFullscreen="true"
+  navBarEnableHideThumbs="true"
+  navBarEnableMusic="true"
+  navBarEnableSlideshow="true"
+  navBarImageCountDeviceFontColor="eb7c08"
+  navBarImageCountDeviceFontSize="10"
+  navBarImageCountXoffset="0"
+  navBarImageCountYoffset="0"
+  navBarInactiveButtonAlpha="30"
+  navBarSoundType="3"
+  navBarSoundVolume="30"
+  scaleToFit="false"
+  scaleToFitOnFullscreen="false"
+  scrollSpeed="4"
+  slideshowAutoPlay="false"
+  slideshowInterval="8"
+  slideshowIntervalIndicatorColor="FFFFFF"
+  slideshowIntervalIndicatorEnabled="true"
+  slideshowIntervalIndicatorSize="12"
+  thumbsAutoCreate="true"
+  thumbsDropShadowEnabled="true"
+  thumbsFrameColor="ffffff"
+  thumbsFrameSize="2"
+  thumbsHiddenOnStart="false"
+  thumbsIndent="false"
+  thumbsMarkersColor="eb7c08"
+  thumbsMarkersEnabled="true"
+  thumbsMarkersSizeOffset="0"
+  thumbsPosition="bottom"
+  thumbsPreloaderColor="CCCCCC"
+  thumbsRollOverEffectAlpha="60"
+  thumbsRollOverEffectColor="000000"
+  thumbsRollOverEffectType="1"
+  thumbsSetHeight="80"
+  thumbsSetWidth="80"
+  thumbsSoundType="2"
+  thumbsSoundVolume="20"
+  thumbsSpacing="10"
+  titleDeviceFontColor="CCCCCC"
+  titleDeviceFontSize="1"
+  titleGraphicLineAlpha="100"
+  titleGraphicLineColor="eb7c08"
+  titleGraphicLineHeight="0"
+  titleGraphicLineYoffset="0"
+  titleEnabled="true"
+  titlePosition="left"
+  titleXoffset="0"
+  titleYoffset="0"
+  title2DeviceFontColor="000000"
+  title2DeviceFontSize="20"
+  title2Position="right"
+  title2Xoffset="0"
+  title2Yoffset="0"
+  tooltipsBackgroundColor="eb7c08"
+  tooltipsDeviceFontColor="000000"
+  tooltipsDeviceFontSize="10"
+  tooltipsNavBarEnabled="true"
+  tooltipsTextXoffset="0"
+  tooltipsTextYoffset="0"
+  tooltipsYoffset="0"
+  />
+  <titleText>
+   
+  </titleText>
+  <titleText2></titleText2>
+  <navigationBarTooltips>
+    <navShowMenuText>show menu</navShowMenuText>
+    <navHideMenuText>hide menu</navHideMenuText>
+    <navPreviousImageText>previous image</navPreviousImageText>
+    <navPlaySlideshowText>start slideshow</navPlaySlideshowText>
+    <navPauseSlideshowText>pause slideshow</navPauseSlideshowText>
+    <navNextImageText>next image</navNextImageText>
+    <navShowCaptionText>show caption</navShowCaptionText>
+    <navHideCaptionText>hide caption</navHideCaptionText>
+    <navPlayMusicText>play music</navPlayMusicText>
+    <navStopMusicText>stop music</navStopMusicText>
+    <navHideThumbsText>hide thumbnails</navHideThumbsText>
+    <navShowThumbsText>show thumbnails</navShowThumbsText>
+    <navEnableFullscreenText>go fullscreen</navEnableFullscreenText>
+   
+  </navigationBarTooltips>
+</gallery>

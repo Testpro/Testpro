@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+    <thumb displayNum="3" separation="5">
+        <image>images/foto1.jpg</image>
+        <description>Paesaggio Futuristico</description>
+    </thumb>
+	<thumb>
+        <image>images/foto2.jpg</image>
+        <description>Kristin Kreuk</description>
+    </thumb>
+	<thumb>
+        <image>images/foto3.jpg</image>
+        <description>Paesaggio Fantastico</description>	
+    </thumb>
+	<thumb>
+        <image>images/foto4.jpg</image>
+        <description>Tartaruga</description>	
+    </thumb>
+	<thumb>
+        <image>images/foto5.jpg</image>
+        <description>Bosco</description>	
+    </thumb>
+	<thumb>
+        <image>images/foto6.jpg</image>
+        <description>Spot Cocacola</description>	
+    </thumb>
+	<thumb>
+        <image>images/foto7.jpg</image>
+        <description>Alessandra Ambrosio</description>	
+    </thumb>
+</images>

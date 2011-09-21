@@ -1,0 +1,11 @@
+<gallery>
+  <album>
+    <albumDescription><![CDATA[Album 1]]></albumDescription>
+   
+
+	 <image>
+      <path>disp_photo2.jpg</path>
+      <caption><![CDATA[Image 1]]></caption>
+      <link name="Click here to enlarge" path="http://www.splendornet.com/flcms/mm/G_images/disp_photo2.jpg" target="_blank"/>
+      <imageName>disp_photo2.jpg</imageName>
+    </image> </album></gallery>
